@@ -1,0 +1,23 @@
+management.health.db.retailerId=900
+
+info.app.description=Brand Portal
+info.app.version=17.11
+
+#-------------------------------------------------------------------
+# ciValue - custom parameters
+#-------------------------------------------------------------------
+civalue.webcontent.path=
+civalue.webcontent.logo=https://s3-us-west-1.amazonaws.com/civalue-web-content/logos/LOGO_PLATAFORMA_NIELSEN.png
+civalue.webcontent.background=https://s3-us-west-1.amazonaws.com/civalue-web-content/login-images/olimpica.jpg
+civalue.webcontent.static.favicon=https://s3-us-west-1.amazonaws.com/civalue-web-content/favicons/olimpica-favicon.ico
+#-------------------------------------------------------------------
+# REPORTS - custom parameters
+#-------------------------------------------------------------------
+civalue.reports.brand.enable-benchmark-sample=false
+#civalue.reports.loyalty.months-before-period=36
+#civalue.reports.loyalty.months-prior-period=12
+
+civalue.reports.data.sample.enable=false
+civalue.reports.data.sample.anchor.percents=26
+civalue.reports.loyalty.period.before=-4
+civalue.reports.loyalty.period.previous=-2
